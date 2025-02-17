@@ -1,3 +1,6 @@
+// Write a Java program to print the sum, multiplication, subtraction, division, and remainder of 
+// two numbers.
+
 import java.util.*;
 class Assign6 {
 	public static void main(String[] args){

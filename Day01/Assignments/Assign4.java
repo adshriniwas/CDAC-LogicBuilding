@@ -1,3 +1,5 @@
+// Write a Java program to print the result of the following operations.
+
 class Assign4 {
 	public static void main(String[] args) {
 		int a = -5 + 8 * 6;

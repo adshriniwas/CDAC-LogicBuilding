@@ -1,3 +1,6 @@
+// Write a Java program that takes two numbers as input and displays the product of the two 
+// numbers.
+
 import java.util.*;
 class Assign5 {
 	public static void main(String[] args){
